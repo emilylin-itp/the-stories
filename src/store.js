@@ -12,7 +12,7 @@ export default new Vuex.Store({
           id_href: 'captalism',
           category: 'captalism',
           story: false,
-          reference: false
+          reference: https://www.commondreams.org/views/2018/09/18/capitalist-manifesto-let-poor-people-die
         },
         {
           id_href: 'injustice',
